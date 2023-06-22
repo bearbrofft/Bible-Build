@@ -13,3 +13,22 @@
 .body {
     background-color: navy;
 }
+
+.intro {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+.verse {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+
+.new {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    background-color: none;
+}
