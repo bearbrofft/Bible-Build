@@ -12,6 +12,18 @@ body {
   background-image: url("./images/spaceBackground.jpg");
 }
 
+#welcome {
+    text-align: center;
+    font-family: "Atma", cursive;
+    color: white;
+}
+
+#call {
+    text-align: center;
+    font-family: "Atma", cursive;
+    color: white;
+}
+
 .layout {
   display: flex;
   flex-direction: column;
